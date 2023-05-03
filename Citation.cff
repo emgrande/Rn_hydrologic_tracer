@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Grande"
+  given-names: "Emilio"
+  orcid: "https://orcid.org/0000-0003-3995-0380"
+- family-names: "Moran"
+  given-names: "Jean"
+  orcid: "https://orcid.org/0000-0002-1749-804X"
+title: "Rn\_hydrologic\_tracer: Initial Release"
+version: 0.1.0
+doi: 10.5281/zenodo.7889019
+date-released: 2023-05-02
+url: "https://doi.org/10.5281/zenodo.7889019"
